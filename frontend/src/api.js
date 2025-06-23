@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:4000';
+const API_BASE_URL = 'https://scriptguruassignment-2.onrender.com';
 
 // Boards
 export async function getBoards() {
