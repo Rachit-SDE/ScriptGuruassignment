@@ -2,6 +2,8 @@
 
 A modern, full-stack Kanban-style board and task management application. Built with React (Vite + Tailwind CSS) for the frontend and Node.js/Express + MongoDB for the backend.
 
+LIVE LINK -> https://script-guruassignment.vercel.app/
+
 
 *************** Main Page ***************
 ![Screenshot 2025-06-23 115503](https://github.com/user-attachments/assets/102d4f2d-ea43-46fc-9c43-5608f0a194ee)
