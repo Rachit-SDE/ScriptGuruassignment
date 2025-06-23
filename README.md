@@ -4,14 +4,16 @@ A modern, full-stack Kanban-style board and task management application. Built w
 
 
 *************** Main Page ***************
- Screenshot 2025-06-23 115503.png
+![Screenshot 2025-06-23 115503](https://github.com/user-attachments/assets/102d4f2d-ea43-46fc-9c43-5608f0a194ee)
 
  ********** Add Board Section ****************
- Screenshot 2025-06-23 115515.png
+ 
+![Screenshot 2025-06-23 115515](https://github.com/user-attachments/assets/1e4456f6-9fbc-4609-b5e9-d9af961810d9)
 
 
  ************ Add Task Section ****************
- Screenshot 2025-06-23 115526.png
+![Screenshot 2025-06-23 115526](https://github.com/user-attachments/assets/e69cfe08-1dc9-419a-97bf-efeb6ad768bb)
+
 
 
 ---
@@ -82,12 +84,6 @@ npm run dev
   boardId: ObjectId,
   createdAt: Date
 }
-```
-
----
-
-## 📸 Screenshots
-_Add screenshots or GIFs here to showcase the UI_
 
 ---
 
